@@ -3,3 +3,9 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+body{
+  font-family: 'Lato', Calibri, Arial, sans-serif;
+  color:47a3da;
+}
+/*I wonder why the color value is applying to the text and not the background.  That is my next challenge!*/
